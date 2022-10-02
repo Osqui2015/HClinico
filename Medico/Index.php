@@ -163,6 +163,9 @@ FROM habitaciones ORDER BY habitacion;");
         <label for="">Nombre</label>
         <input type="text" class="form-control" name="" id=""> 
         <br>
+        <label for="">DNI</label>
+        <input type="number" name="" id="">
+        <br>
         <label for="">Fecha de Naciemiento</label>
         <input type="date" class="form-control" name="" id="">
         <br>
